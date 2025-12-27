@@ -27,5 +27,5 @@ This project focuses on extracting actionable insights from over 10,000 retail t
 * `retail_store_sales.csv`: Source dataset used for analysis.
 
 ## 👤 Author
-* **Your Name** - Junior Computer Engineering Student (AI Specialization)
+Sara - Junior Computer Engineering Student (AI Specialization)
 * 📍 Based in Egypt | Open to Remote Opportunities
